@@ -79,6 +79,7 @@
 - Przyśpieszenie możliwości ML na androidzie |
 - Dostęp do HardwareRenderer |
 - Settings Panel |
+- Podejście kotlin first w bibliotekach |
 
 ---
 ## Jetpack w skrócie
@@ -88,7 +89,14 @@
 - WorkManager otrzymuje wersje 2.0.1/1.01 |
 - Navigation 1.0/2.0 stable |
 - Nowe biblioteki: Benchmarking, Security, VM Saved State i inne |
-- ViewBindings i ViewPager2 (na recyclerze)
+- ViewBindings i ViewPager2 (na recyclerze) |
+
++++
+## Work manager
+- Możliwość ręcznej inicjalizacji |
+- Nadchodzi integracja z Google play services (lepsza wydajność na API<23) |
+- Wsparcie dla testów w Robolectric |
+- Wsparcie dla ForegroundService dla dłuższych tasków |
 
 +++ 
 ## CameraX
