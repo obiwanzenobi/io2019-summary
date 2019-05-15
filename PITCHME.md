@@ -80,6 +80,7 @@
 - Dostęp do HardwareRenderer |
 - Settings Panel |
 - Podejście kotlin first w bibliotekach |
+- Apply changes zastąpi Instant Run |
 
 ---
 ## Jetpack w skrócie
@@ -114,4 +115,4 @@
 ## Podsumowanie
 - I/O sprzeczności developerskich z jednej strony uproszczenia a z drugiej jeszcze większe komplikacje |
 - Duży nacisk na deklaratywne tworzenie UI |
-- 
+- Poprawa bieżących mechanizmów |
