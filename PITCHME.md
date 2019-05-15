@@ -1,7 +1,6 @@
 ## Google I/O 2019
 ## Czy jest się czego bać?
 
-
 ---
 
 ## Bubbles
@@ -9,6 +8,10 @@
 - Ułatwi implementacje tego typu zachować w aplikacji |
 - W Androidzie Q tylko jako opcjonalne API (dostepne w Dev opcjach) |
 - Stare api (System Alert Window) zostanie w przyszłości oznaczone jako przestarzałe i za pare lat usunięte |
+
++++?image=images/bubbles4.png&size=auto 70%
+
++++?image=images/bubbles3.png&size=auto 70%
 
 ---
 
