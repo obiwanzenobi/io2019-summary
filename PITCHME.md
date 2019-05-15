@@ -43,13 +43,15 @@
 ![elevation](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1MHUUJUUsP5V7UUaeeVrgzOuJ6r4FFlIG%2Fdarktheme-light-dark-elevation.mp4)
 
 --- 
-## Nawigacja gestami
+### Nawigacja gestami
 
 - W Androidzie 10 nawigacja w końcu została jawnie podzielona na dwie opcje |
 - Nawigacja standardowa trzy przyciskowa będzie jedną z opcji nawigacji dla Androida Q+ i standardem dla wersji < Q |
 - Nową opcją nawigacji będą gesty |
 - Swipe left i right dla cofania -> system przechwytuje teraz dotyk przy krawędziach ekranu (do wyłączenia). |
 - Swipe z dołu urządzenia w celu wywołania managera zadań lub wyjścia do ekranu głównego (zależy od siły). Niemożliwe do wyłączenia |
+
++++?image=images/gestureEdges.PNG&size=auto 80%
 
 +++
 
