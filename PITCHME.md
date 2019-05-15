@@ -9,9 +9,9 @@
 - W Androidzie Q tylko jako opcjonalne API (dostepne w Dev opcjach) |
 - Stare api (System Alert Window) zostanie w przyszłości oznaczone jako przestarzałe i za pare lat usunięte |
 
-+++?image=images/bubbles4.png&size=auto 70%
++++?image=images/bubbles4.png&size=auto 80%
 
-+++?image=images/bubbles3.png&size=auto 70%
++++?image=images/bubbles3.png&size=auto 80%
 
 ---
 
@@ -37,6 +37,8 @@
 - Naturalnym rozwiązaniem tego problemu ma być elevation overlay |
 - Elevation overlay ma rozjaśniać tło elementu z siłą efektu równą wysokości |
 - MDC od wersji 1.1 wspiera takie zachowanie |
++++
+![elevation](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1MHUUJUUsP5V7UUaeeVrgzOuJ6r4FFlIG%2Fdarktheme-light-dark-elevation.mp4)
 
 --- 
 ## Nawigacja gestami
