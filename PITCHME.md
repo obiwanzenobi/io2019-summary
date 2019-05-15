@@ -55,7 +55,7 @@
 
 +++
 
-## Wpływ na design i development
+### Wpływ na design i development
 - Aby utworzyć jak najlepsze doświadczenie dla użytkowników zaleca się tworzenia interfejsów użytkownika od krawędzi do krawędzi |
 - Uwzględnia to status bar a także navigation bar. Należy pamietać aby widoki pozwalające na interakcje odsunąć od tych miejsc |
 - Gesty wysuwania z dołu bardzo podobne do iOS (takżę wizualnie) |
@@ -72,7 +72,8 @@
 - Android ART przyśpieszy start aplikacji o 15% na nowej wersji |
 - Generational Garbage Collector (podział na young collect (częstszy) i full-heap collection (stary)) | 
 - TLS 1.3 domyślnie włączony |
-- Możliwość zapisania do PowerManagera na powiadomienie o zbyt wysokiej temperaturze |
++++
+- Możliwość zapisania do PowerManagera na powiadomienie o zbyt wysokiej temperaturze 
 - Przyśpieszenie możliwości ML na androidzie |
 - Dostęp do HardwareRenderer |
 - Settings Panel |
