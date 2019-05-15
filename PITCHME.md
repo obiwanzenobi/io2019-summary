@@ -96,7 +96,7 @@
 - Możliwość ręcznej inicjalizacji |
 - Nadchodzi integracja z Google play services (lepsza wydajność na API<23) |
 - Wsparcie dla testów w Robolectric |
-- Wsparcie dla ForegroundService dla dłuższych tasków |
+- Wsparcie dla ForegroundService dla dłuższych tasków (obecnie max = 10min) |
 
 +++ 
 ## CameraX
