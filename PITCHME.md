@@ -2,6 +2,15 @@
 ## Czy jest się czego bać?
 
 ---
+### Aplikacje Google
+
+- Podgląd modeli 3d w aplikacji Google z poziomu wyszukiwania |
+- Dodatkowe możliwości Google Lens |
+- Wypełnianie formularzy przez Google Asisstant |
+- Dostępność Google Assistant offline |
+- Incognito mode w kolejnych aplikacjach (mapy, yt) |
+
+---
 
 ## Bubbles
 - Jednolite API do budowania okien rysujących się nad UI systemu (jak w przypadku Massengera) |
@@ -121,6 +130,16 @@
 - Całość bardzo przypomina system zaprezentowany w Flutterze |
 - W tym momencie dostępne tylko w AOSP |
 
++++
+
+### Security 
+
+- Zaprezentowano Adiantum - szyfrowanie dla urzadzeń Low End |
+- 100% urządzeń wchodzących na rynek z Androidem Q będzie wspierało szyfrowanie |
+- Nowa biblioteka androidx.security ma ułatwić szyfrowanie danych przez aplikacje (np. shared prefs)|
+- Zmiany w Biometric prompt |
+- Android 7+ z certyfikatem FIDO2 |
+
 ---
 ## Nowości w Google Play
 
@@ -135,9 +154,19 @@
 - Poprawiona obsługa DataBinding |
 - Wskazówki dotyczace optymalizacji dzialania (zwiekszenie ilości ramu, wykluczenie antywirusa) |
 
+--- 
+## Flutter
+- Technical preview Flutter for Web |
+- Dart v2.3
+- Zapowiedź nowych elementów języka Nullable types oraz Extension methods |
+
++++
+### Nowe elementy Dart 2.3
+
 
 ---
 ## Podsumowanie
 - I/O sprzeczności developerskich z jednej strony uproszczenia a z drugiej jeszcze większe komplikacje |
 - Duży nacisk na deklaratywne tworzenie UI |
 - Poprawa bieżących mechanizmów |
+- Podwyższanie min Api w celu skorzystania z bibliotek Jetpack (security - 23+) |
