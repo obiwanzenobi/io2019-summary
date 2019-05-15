@@ -110,14 +110,31 @@
 +++ 
 ## CameraX
 
+- Nowa biblioteka mająca uprościć korzystanie z Aparatu |
+- Ma pozwolić na korzystanie z zaawansowanych możliwości urządzeń jak Night Mode, HDR itp. |
+- Dodatkowe uproszczenia uwzględniają Preview, Analize obrazu oraz zapis zdjęć |
+
 +++ 
-## Jetpack Compose
+### Jetpack Compose
+- Google dostrzegło problem tworzenia UI na androidzie |
+- Nowy system zakłada deklaratywne tworzenie layoutów poprzez funkcje pisane w Kotlinie |
+- Całość bardzo przypomina system zaprezentowany w Flutterze |
+- W tym momencie dostępne tylko w AOSP |
 
 ---
 ## Nowości w Google Play
 
 - Możliwość aktualizacji wewnątrz aplikacji |
 - Wymuszanie aktualizacji z poziomu konsoli (i troche kodu) |
+- Statystyki / raport zmian wielkości APK |
+- Internal AppSharing - nie wymaga version code, podpisu itd. |
+
+---
+## Android studio
+- 3.5 skupia sie na poprawie wydajności i poprawie błędów |
+- Poprawiona obsługa DataBinding |
+- Wskazówki dotyczace optymalizacji dzialania (zwiekszenie ilości ramu, wykluczenie antywirusa) |
+
 
 ---
 ## Podsumowanie
