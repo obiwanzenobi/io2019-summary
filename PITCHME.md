@@ -4,18 +4,6 @@
 
 ---
 
-## Navigation Component
-
-+++
-
-- (Wersja 2.1) dodano nowy scope view modeli - per navigation graph |
-- (Wersja 2.1) dodano nowy destination w navigation graph - dialogi |
-- Uzuełniono sporą część dokumentacji (naprawde) |
-- Zapowiedziano (koniec roku) Dynamic Feature Navigation (nawigacja w modułowych projektach) |
-- Trwa zmiana fragmentów i bibliotek, od których zależy nawigacja tak aby ją rozbudować |
-
----
-
 ## Bubbles
 - Jednolite API do budowania okien rysujących się nad UI systemu (jak w przypadku Massengera) |
 - Ułatwi implementacje tego typu zachować w aplikacji |
@@ -98,7 +86,17 @@
 - Nadchodzi integracja z Google play services (lepsza wydajność na API<23) |
 - Wsparcie dla testów w Robolectric |
 - Wsparcie dla ForegroundService dla dłuższych tasków (obecnie max = 10min) |
++++
 
+### Navigation Component
+
+- (Wersja 2.1) dodano nowy scope view modeli - per navigation graph 
+- (Wersja 2.1) dodano nowy destination w navigation graph - dialogi |
+- Uzuełniono sporą część dokumentacji (naprawde) |
+- Zapowiedziano (koniec roku) Dynamic Feature Navigation (nawigacja w modułowych projektach) |
+- Trwa zmiana fragmentów i bibliotek, od których zależy nawigacja tak aby ją rozbudować |
+
+---
 +++ 
 ## CameraX
 
