@@ -22,7 +22,7 @@
 - Dodana zostanie opcje wymuszenia ciemnego motywy aplikacji przez inwersje (zazwyczaj) kolorów |
 - Wsparcie dla poprzednich wersji systemu poprzez DayNight w AppCompat oraz Material components |
 
-+++?image=images/dark-theme.png.png&size=auto 80%
++++?image=images/dark-theme.png&size=auto 80%
 
 +++
 
