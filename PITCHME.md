@@ -86,6 +86,8 @@
 - Settings Panel |
 - Podejście kotlin first w bibliotekach |
 - Apply changes zastąpi Instant Run |
+- Androidx Benchmarking |
+- Constraint LAyout 2.0 w Becie |
 
 ---
 ## Jetpack w skrócie
