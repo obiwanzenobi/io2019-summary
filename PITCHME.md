@@ -65,8 +65,7 @@
 
 ### Wpływ na design i development
 - Aby utworzyć jak najlepsze doświadczenie dla użytkowników zaleca się tworzenia interfejsów użytkownika od krawędzi do krawędzi |
-- Uwzględnia to status bar a także navigation bar. Należy pamietać aby widoki pozwalające na interakcje odsunąć od tych miejsc |
-- Gesty wysuwania z dołu bardzo podobne do iOS (takżę wizualnie) |
+- Uwzględnia to status bar a także navigation bar. Należy pamietać aby widoki pozwalające na interakcje odsunąć od tych miejsc (podobnie jak na iOS)|
 - Uważać na krawędzie boczne podczas tworzenia widoków |
 - Aktualizacja bibliotek jest ważniejsza niż kiedykolwiek |
 
