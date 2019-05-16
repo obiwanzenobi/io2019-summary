@@ -155,7 +155,7 @@
 --- 
 ## Flutter
 - Technical preview Flutter for Web |
-- Dart v2.3
+- Dart v2.3 |
 - Zapowiedź nowych elementów języka Nullable types oraz Extension methods |
 
 +++
